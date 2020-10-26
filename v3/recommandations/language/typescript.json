@@ -1,0 +1,14 @@
+[
+{
+"category": "Programming Languages",
+"ids": [
+"che-incubator/typescript/latest"
+]
+},
+{
+"category": "Linters",
+"ids": [
+"sonarsource/sonarlint-vscode/latest"
+]
+}
+]
