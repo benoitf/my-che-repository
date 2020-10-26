@@ -1,0 +1,39 @@
+[
+{
+"category": "Programming Languages",
+"ids": [
+"ms-python/python/latest"
+]
+},
+{
+"category": "Debuggers",
+"ids": [
+"ms-python/python/latest"
+]
+},
+{
+"category": "Linters",
+"ids": [
+"ms-python/python/latest",
+"sonarsource/sonarlint-vscode/latest"
+]
+},
+{
+"category": "Snippets",
+"ids": [
+"ms-python/python/latest"
+]
+},
+{
+"category": "Formatters",
+"ids": [
+"ms-python/python/latest"
+]
+},
+{
+"category": "Other",
+"ids": [
+"ms-python/python/latest"
+]
+}
+]
